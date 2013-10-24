@@ -1,1 +1,1 @@
-{"config":"YES"}
+YES
